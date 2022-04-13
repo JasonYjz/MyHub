@@ -7,14 +7,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="grpcdemo" />
         <module name="flyway-demo" />
-        <module name="shrio-demo" />
         <module name="grpc-demo" />
+        <module name="shrio-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="flyway-demo" target="1.8" />
       <module name="grpc-demo" target="1.8" />
+      <module name="grpcdemo" target="1.8" />
       <module name="shrio-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -22,6 +24,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="flyway-demo" options="-parameters" />
       <module name="grpc-demo" options="-parameters" />
+      <module name="grpcdemo" options="-parameters" />
       <module name="shrio-demo" options="-parameters" />
     </option>
   </component>
