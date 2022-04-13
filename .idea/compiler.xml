@@ -7,7 +7,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="grpcdemo" />
         <module name="flyway-demo" />
         <module name="grpc-demo" />
         <module name="shrio-demo" />

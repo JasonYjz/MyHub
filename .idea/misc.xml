@@ -5,7 +5,6 @@
       <list>
         <option value="$PROJECT_DIR$/flyway-demo/pom.xml" />
         <option value="$PROJECT_DIR$/shrio-demo/pom.xml" />
-        <option value="$PROJECT_DIR$/grpc-demo/pom.xml" />
       </list>
     </option>
   </component>
