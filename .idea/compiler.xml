@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="flyway-demo" />
         <module name="grpc-demo" />
+        <module name="prometheus-demo" />
         <module name="shrio-demo" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
       <module name="flyway-demo" target="1.8" />
       <module name="grpc-demo" target="1.8" />
       <module name="grpcdemo" target="1.8" />
+      <module name="prometheus-demo" target="1.8" />
       <module name="shrio-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -24,6 +26,7 @@
       <module name="flyway-demo" options="-parameters" />
       <module name="grpc-demo" options="-parameters" />
       <module name="grpcdemo" options="-parameters" />
+      <module name="prometheus-demo" options="-parameters" />
       <module name="shrio-demo" options="-parameters" />
     </option>
   </component>

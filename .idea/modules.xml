@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/flyway-demo/flyway-demo.iml" filepath="$PROJECT_DIR$/flyway-demo/flyway-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/grpc-demo/grpc-demo.iml" filepath="$PROJECT_DIR$/grpc-demo/grpc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prometheus-demo/prometheus-demo.iml" filepath="$PROJECT_DIR$/prometheus-demo/prometheus-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/shrio-demo/shrio-demo.iml" filepath="$PROJECT_DIR$/shrio-demo/shrio-demo.iml" />
     </modules>
   </component>
